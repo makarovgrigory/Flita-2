@@ -1,3 +1,0 @@
-D:/2022-2023/C/Flita/N2/cmake-build-debug/CMakeFiles/N2.dir
-D:/2022-2023/C/Flita/N2/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/2022-2023/C/Flita/N2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
